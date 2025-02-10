@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(232, 143, 94);
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.conteneur{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	border: 07px solid rgba(187, 58, 153, 0.687);
+	padding: 07px solid rgba(187, 58, 153, 0.687);
+	margin: 07px solid rgba(187, 58, 153, 0.687);
+	background-color: rgba(187, 58, 153, 0.687);
+	border-radius: 07px ;
+}
+
+	.conteneur #résultat{
+		color: rgb(126, 0, 93);
+	}
+
+	
